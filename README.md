@@ -1,5 +1,5 @@
-# kberland.github.io
+# Kristian Berland
 
-I am a condensed matter physicist. 
+Condensed matter physicist. 
 
-Here I plan to publish various scripts that are helpful. 
+Here I hope to publish various scripts that can be of use to others. 
